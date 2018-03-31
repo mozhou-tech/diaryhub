@@ -7,7 +7,7 @@ categories:
 - 机器学习
 ---
 
-![](/images/2016/alpha_go_theroy.jpg)
+![](images/alpha_go_theroy.jpg)
 
 AlphaGo总体上包含离线学习（图1上半部分）和在线对弈（图1下半部分）两个过程。
 
